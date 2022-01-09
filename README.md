@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BambaThiam
 - 👀 I’m interested in les sujets de BIM, interoperabilites, python, AR /VR , metaverse
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, javascript
 - 💞️ I’m looking to collaborate on des projets open data autour du BIM
 - 📫 How to reach me bambathiam88@gmail.com
 
