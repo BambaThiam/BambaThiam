@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BambaThiam
-- 👀 I’m interested BIM, ifc.js, AR /VR , blockchain, computer vision topics
+- 👋 Hi, I’m @BambaThiam, civil engineer
+- 👀 I’m interested BIM, ifc.js, AR /VR ,web3, blockchain, computer vision topics
 - 🌱 I’m currently learning python for openCV and javascript for reactjs and ifc.js for developping Bim software
 - 💞️ I’m looking to collaborate on projects around openBIM
 - 📫 How to reach me bambathiam88@gmail.com
