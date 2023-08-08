@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BambaThiam, civil engineer
+- 👋 Hi, I’m @BambaThiam, civil engineer & developer
 - 👀 I’m interested Computer vision, BIM, 3D, PointCould-AI, LLM & web3 topics
 - 🌱 I’m currently learning Tensorflow & openCV for computer vision and ML applications; Reactjs, threeJS for creative webapp and ifc.js for developping Bim software
 - 💞️ I’m looking to collaborate on projects around Computer vision, LLM, PointCould-AI & openBIM for AEC industry
